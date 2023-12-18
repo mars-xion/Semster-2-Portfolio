@@ -5,8 +5,6 @@ This is a old webiste I have made.
 ![image](https://github.com/mars-xion/Semster-2-Portfolio/assets/74795424/f5843334-e807-47c0-9218-156872c7a39e)
 
 
-# WEBSITE PRJ 
-
 # Student
 
 Name | ID 
@@ -18,4 +16,4 @@ AL Habsi,Mazoun | 3922308
 ## Footnotes
 
 
-Repository created by [AL Habsi,Mazoun]([https://git.fhict.nl/I437904](https://github.com/mars-xion)https://github.com/mars-xion) on 2021-05-23. 
+Repository created by [AL Habsi,Mazoun]([https://git.fhict.nl/I437904](https://github.com/mars-xion)https://github.com/mars-xion) on 2023-12-18. 
